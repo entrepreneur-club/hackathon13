@@ -1,12 +1,12 @@
 # OwnPass
-[Project Repo link](https://)  
+[Server](https://github.com/KarlKode/OwnPass-Server) - [Webinterface](https://github.com/KarlKode/OwnPass-Web) - [Android](https://github.com/KarlKode/OwnPass-Android)  
 *Description:* A password managment service on your own server  
 *Goal:* MVP: Authenticate, create/edit/delete passwords with multiple clients.  
 *Members:*
 
-* Leo (@<your github name>)
-* Marc (@<your github name>)
-* Yassin (@<your github name>)
+* Leo (@ph0o)
+* Marc (@KarlKode)
+* Yassin (@ynh)
 
 # contractr
 [Project Repo link](https://)  
