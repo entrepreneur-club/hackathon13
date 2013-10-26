@@ -179,13 +179,13 @@
 * PJ (@<your github name>)
 
 # Log Analytics
-[Project Repo link](https://)  
+[Project Repo link](https://github.com/jo-m/hackathon-logs-analyze)  
 *Description:* Analyze HPC Server Logs  
 *Goal:* Predict Crashes  
 *Members:*
 
-* Jonathan (@<your github name>)
-* Luciano (@<your github name>)
-* Julius Chrobak (@<your github name>)
-* Yury Mishin (@<your github name>)
+* Jonathan (@jo-m)
+* Luciano (@lucianof)
+* Julius Chrobak (@julochrobak)
+* Yury Mishin (@ymishin)
 
